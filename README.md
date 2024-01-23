@@ -1,1 +1,1 @@
-This repository includes Data Visualization and stories made using Tableau Desktop.
+This repository includes data visualization and stories made using Tableau Desktop.
